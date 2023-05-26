@@ -15,7 +15,7 @@ Este é um projeto simples de teste de Dark Mode, onde você pode alternar entre
 
 ## Execução do projeto:
 
-https://mochila-de-viagem-olive-eight.vercel.app/
+https://dark-mode-teste.vercel.app/
 
 ## Feito por:
 
